@@ -23,3 +23,31 @@ Thanks again for reaching out!
  
 I look forward to hearing from you
 ```
+
+## the autoresponse not interested
+
+```
+Thanks so much for reaching out. I'm always interested in hearing about what new and exciting opportunities are out there. As a software engineer, I'm sure you can imagine that I get a very high volume of recruiters reaching out on LinkedIn or by email. It is a wonderful position of privilege to be in and I'm thankful for it.
+
+It does however mean that I don't have the time to hop on a call with everyone who reaches out. A lot of the time, incoming messages represent a very poor fit indeed.
+
+I very much appreciate the fact that you already disclosed the salary and other important details like remote flexibility.
+
+But unfortunately I’m not interested to the proposed position at the moment.
+
+You could try posting the same position to the #hiring-job-board Slack channel of https://bcneng.org
+
+Thanks again for reaching out!
+```
+
+## the autoresponse not interested after sending requested details
+
+```
+I very much appreciate the fact that you sent the requested details.
+
+But unfortunately I’m not interested to the proposed position at the moment.
+
+You could try posting the same position to the #hiring-job-board Slack channel of https://bcneng.org
+
+Thanks again for reaching out!
+```
