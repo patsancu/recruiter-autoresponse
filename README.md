@@ -74,7 +74,8 @@ Thanks again for reaching out!
 # Reverse interview
 
 Copied from https://gist.github.com/leonhfr/a3b734afaab0a3e6d4a6f37b50f9955c
-All credits to @leonhfr
+
+All credits to [@leonhfr](https://github.com/leonhfr).
 
 ## Engineering
 
