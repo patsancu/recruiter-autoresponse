@@ -54,8 +54,6 @@ I very much appreciate the fact that you already disclosed the salary and other 
 
 But unfortunately I’m not interested to the proposed position at the moment.
 
-You could try posting the same position to the #hiring-job-board Slack channel of https://bcneng.org
-
 Thanks again for reaching out!
 ```
 
